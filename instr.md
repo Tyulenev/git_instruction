@@ -29,3 +29,7 @@ git merge
 git rebase
 git push --force
 
+git tag 1.0.0 - добавляет версию к текущему коммиту
+git push --tags - добавляет тэг в удал. репозиторий
+git tag -d 1.0.1 - Удаляет тэк в локально репозитории
+fit push --delete origin 1.0.1 - удаляет тэг в удаленно репозитории
