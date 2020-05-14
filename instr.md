@@ -1,5 +1,6 @@
 Инструкция по работе  GIT
 (https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/)
+
 git init - инициализация локального репозитория
 
 git status - ПРоверить статус репозитория
@@ -34,3 +35,6 @@ git tag 1.0.0 - добавляет версию к текущему коммит
 git push --tags - добавляет тэг в удал. репозиторий
 git tag -d 1.0.1 - Удаляет тэк в локально репозитории
 fit push --delete origin 1.0.1 - удаляет тэг в удаленно репозитории
+
+PULL - Request
+git push -u origin Ветка - создает PR для активного коммита в указанной ветке
