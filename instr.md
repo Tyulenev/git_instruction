@@ -1,4 +1,5 @@
 Инструкция по работе  GIT
+(https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/)
 git init - инициализация локального репозитория
 
 git status - ПРоверить статус репозитория
